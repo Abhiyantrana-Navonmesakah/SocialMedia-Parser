@@ -1,0 +1,16 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore environment variables file
+.env
+
+# Ignore specific image files
+1stpage.png
+chat.txt
+fb_homepage.png
+fb_profilepage.png
+Growwdashboard.png
+GrowwMutualFunds.png
+profilepage.png
+x_login.png
+x_profile.png
